@@ -1,0 +1,7 @@
+NAME="HefftorLinux"
+ID=hefftorlinux
+ID_LIKE="arch"
+VERSION_ID=v2021-03-12
+ANSI_COLOR="0;36"
+HOME_URL="https://hefftorlinux.net"
+SUPPORT_URL="http://hefftorlinux.net"
